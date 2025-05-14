@@ -64,7 +64,7 @@ namespace CybersecurityChatbot
             Console.Write("\n What's your name? ");
             userName = Console.ReadLine();
 
-            Console.WriteLine($"\nHello, {userName}! Ask your cybersecurity questions or choose a topic, to learn more about stayng safe online.");
+            Console.WriteLine($"\n Hello, {userName}! Ask your cybersecurity questions or choose a topic, to learn more about stayng safe online.");
 
             while (true)
             {
